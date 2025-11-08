@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "axios": "^1.12.2",
+    "bootstrap": "^5.3.8",
+    "leaflet": "^1.9.4",
+    "next": "15.5.5",
+    "react": "19.1.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "19.1.0",
+    "react-leaflet": "^5.0.0",
+    "reactstrap": "^9.2.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
